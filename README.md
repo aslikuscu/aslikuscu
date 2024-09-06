@@ -10,6 +10,6 @@ Data Visualization
 
 📫 Contact:
 
-LinkedIn: [https://www.linkedin.com/in/asli-kuscu/]
-Email: [aslii.ksc@gmail.com]
+LinkedIn: [https://www.linkedin.com/in/asli-kuscu/](https://www.linkedin.com/in/asli-kuscu/)
+Email: [aslii.ksc@gmail.com](aslii.ksc@gmail.com)
 Feel free to reach out for more information about my projects!
