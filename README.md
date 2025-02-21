@@ -8,3 +8,6 @@ On my GitHub profile, I share projects focused on data science, machine learning
 🔹 **Projects:** Customer Churn Prediction, Time Series Analysis, Regression & Classification Models  
 🔹 **Links:** [LinkedIn](https://www.linkedin.com/in/asli-kuscu/)  
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aslikuscu&layout=compact&theme=tokyonight)
+
+
